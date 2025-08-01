@@ -100,14 +100,6 @@ pyinstaller --onefile --windowed --name=DesktopPet --icon=normal.png --add-data 
 - 能量变化速度
 - 图片大小
 
-## 📁 项目结构
-DesktopPet/
-├── desktop_pet.py # 主程序文件
-├── normal.png # 正常状态图片
-├── sleep.png # 睡觉状态图片
-├── catch.png # 捕捉状态图片
-└── README.md # 项目说明
-
 ## 🐛 常见问题
 
 ### Q: 运行时报错找不到模块
@@ -122,10 +114,6 @@ A: 确保所有png图片与exe在同一目录下
 ### Q: 宠物不显示
 A: 检查图片文件是否存在且格式正确
 
-## 🤝 贡献
-
-欢迎提交Issue和Pull Request来改进这个项目！
-
 ## 📄 许可证
 
-MIT License - 详见LICENSE文件
+MIT License 
