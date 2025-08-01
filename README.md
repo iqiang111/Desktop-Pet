@@ -22,8 +22,8 @@
 
 1. **克隆或下载项目**
    ```bash
-   git clone [项目地址]
-   cd DesktopPet
+   git clone https://github.com/iqiang111/Desktop-Pet.git
+   cd Desktop-Pet
    ```
 
 2. **安装依赖**
